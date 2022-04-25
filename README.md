@@ -1,1 +1,1 @@
-# StyleGAN_Paddle
+# StyleFlow_Paddle
